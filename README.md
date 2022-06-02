@@ -1,7 +1,7 @@
-### Wilfred N. Gichuru 👋
+### Hi, I'm Williey!
 
-<!--
-**WillieyG/WillieyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Always learning by building and consistency
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
