@@ -23,4 +23,4 @@ Always learning by building and being consistent
 ## My GitHub Stats 
 ![Williey's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillieyG&theme=cobalt&show_icons=true)
 
-[![Hesbon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willieywonka&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/Hesbon5600)
+[![Hesbon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willieywonka&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/WillieyG)
