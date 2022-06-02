@@ -6,8 +6,6 @@ Always learning by building and being consistent
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedIN-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/wilfred-gichuru-197262207/)
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-55acee?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/xwilliey)
 
-
-
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/python-00008b?style=for-the-badge&logo=python&logoColor=fff)
@@ -17,3 +15,7 @@ Always learning by building and being consistent
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## Work Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=fff)
