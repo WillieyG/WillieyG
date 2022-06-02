@@ -9,7 +9,7 @@ Always learning by building and being consistent
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/python-00008b?style=for-the-badge&logo=python&logoColor=fff)
-![Go](https://img.shields.io/badge/golang-add8e6?style=for-the-badge&logo=go&logoColor=000)
+![Go](https://img.shields.io/badge/go-add8e6?style=for-the-badge&logo=go&logoColor=000)
 ![Scala](https://img.shields.io/badge/scala-ff0000?style=for-the-badge&logo=scala&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,3 +19,8 @@ Always learning by building and being consistent
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=fff)
+
+## My GitHub Stats 
+![Williey's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillieyG&theme=cobalt&show_icons=true)
+
+[![Hesbon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willieywonka&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/Hesbon5600)
