@@ -1,6 +1,6 @@
-### Hi, I'm Williey!
+### Hi, I'm Williey! Your Average software developer 
 
-Always learning by building and consistency
+Always learning by building and being consistent
 
 
 Here are some ideas to get you started:
