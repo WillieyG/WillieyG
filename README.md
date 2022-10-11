@@ -1,6 +1,6 @@
 <h2 align="start">Hi, I'm Williey! Software Engineer</h2>
 
-Currently working with Python, Go, Javascript & Scala to create solutions and solve problems <br>
+Currently working with Python, Go, Javascript & Scala to create solutions and solve problems. <br>
 Always learning by building and being consistent
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedIN-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/wilfred-gichuru-197262207/)
